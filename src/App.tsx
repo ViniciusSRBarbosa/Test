@@ -159,7 +159,7 @@ export default function App() {
             <div className="relative rounded-3xl overflow-hidden border border-neutral-800 bg-neutral-900/50 p-2 shadow-2xl">
               <img 
                 src="/banner.png" 
-                alt="Banner NovaFlow"
+                alt="banner.png"
                 className="rounded-2xl w-full h-auto"
                 referrerPolicy="no-referrer"
               />
